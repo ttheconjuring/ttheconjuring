@@ -1,4 +1,4 @@
-![MasterHead](https://previews.123rf.com/images/nadiinko/nadiinko2001/nadiinko200100038/137769042-software-development-seamless-pattern-with-flat-line-icons-programming-language-background.jpg)
+![MasterHead](https://res.cloudinary.com/ditl40ows/image/upload/v1727704127/TestingEz/2_qebfcu.jpg)
 <h1 align="center">Hi 👋, I'm Peter</h1>
 <h3 align="center">A passionate Java developer from Bulgaria.</h3>
 
