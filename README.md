@@ -20,9 +20,9 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ttheconjuring&show_icons=true&locale=en&layout=compact" alt="ttheconjuring" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ttheconjuring&" alt="ttheconjuring" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ttheconjuring&" alt="ttheconjuring" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ttheconjuring&show_icons=true&locale=en" alt="ttheconjuring" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ttheconjuring&show_icons=true&locale=en" alt="ttheconjuring" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ttheconjuring" alt="ttheconjuring" /></a> </p>
 
