@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ttheconjuring" alt="ttheconjuring" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmR5ZmoxZ2pyeDFjNnk1eTFlc2NldTJtcnV5ZXpwNng1ejVzaHl2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp)">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmR5ZmoxZ2pyeDFjNnk1eTFlc2NldTJtcnV5ZXpwNng1ejVzaHl2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 
 - 🔭 I’m currently working on [my first project called “TestingEz”.](https://github.com/ttheconjuring/TestingEz)
 
