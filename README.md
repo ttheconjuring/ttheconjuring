@@ -1,7 +1,6 @@
 [![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm91c2p5ZW9zeG9paWd1M3ZmbTRuZzQxbjg1cmwxZ243cjAwZmFyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7b8jdNUoFBdcoILjjv/giphy.webp)]
 <h1 align="center">Hi 👋, I'm Peter</h1>
 <h3 align="center">A passionate Java developer from Bulgaria.</h3>
-<img align="right" alt="Coding" width="400" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ttheconjuring&label=Profile%20views&color=0e75b6&style=flat" alt="ttheconjuring" /> </p>
 
@@ -18,6 +17,7 @@
 - 📫 How to reach me **ttheconjuring@gmail.com**
 
 - ⚡ Fun fact **I love exploring and studying the Holy Scripture.**
+<img align="right" alt="Coding" width="400" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
