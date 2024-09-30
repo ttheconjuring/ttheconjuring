@@ -1,4 +1,3 @@
-[![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm91c2p5ZW9zeG9paWd1M3ZmbTRuZzQxbjg1cmwxZ243cjAwZmFyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7b8jdNUoFBdcoILjjv/giphy.webp)]
 <h1 align="center">Hi 👋, I'm Peter</h1>
 <h3 align="center">A passionate Java developer from Bulgaria.</h3>
 
