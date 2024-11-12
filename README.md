@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [my first project called “TestingEz”.](https://github.com/ttheconjuring/TestingEz)
 
-- 🌱 I’m currently learning **Spring, Kafka, Docker, Liquibase and also Phyton.**
+- 🌱 I’m currently learning **Spring, React, Python.**
 
 - 🤝 I’m looking for help to **start my professional career as a Junior Java Developer.**
 
